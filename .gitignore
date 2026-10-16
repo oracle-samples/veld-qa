@@ -1,0 +1,12 @@
+# Local dataset snapshots and workspace configuration
+.backups/
+.agents/
+.aws/
+.codex/
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.swp

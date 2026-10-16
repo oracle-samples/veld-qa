@@ -1,0 +1,71 @@
+Attribution Notices for VELD-QA: A Large-Scale Dataset for Visual Evidence Grounding and Question Answering in Long Documents
+
+Introduction
+
+VELD-QA contains data derived from, adapted from, or otherwise based on the
+datasets and sources listed below. Attribution is provided in accordance with
+the licenses associated with those materials. Data obtained from these sources
+were modified, translated, adapted, reformatted, or otherwise transformed as
+necessary to support VELD-QA. Some source materials are available under CC0 or
+are in the public domain. Applicable source-specific terms govern reuse.
+Full license texts are reproduced in Third-Party-Licenses.txt.
+
+Sources
+
+1. DOI.org — DOI Foundation, licensed under Creative Commons Attribution 4.0
+   International (CC BY 4.0). Changes: As noted in the introduction.
+
+2. European Union / European Commission — Licensed under Creative Commons
+   Attribution 4.0 International (CC BY 4.0). Changes: As noted in the
+   introduction. No endorsement by the European Commission is implied.
+
+3. Qld.Gov.AU — © The State of Queensland. Licensed under Creative Commons
+   Attribution 4.0 International (CC BY 4.0). Changes: As noted in the
+   introduction. No endorsement by the Queensland Government is implied.
+
+4. SEC.Gov — U.S. Securities and Exchange Commission (SEC). This use is not
+   affiliated with, approved by, or endorsed by the SEC.
+
+5. Govt.NZ — © New Zealand Crown. Source: Govt.nz. Licensed under Creative
+   Commons Attribution 4.0 International (CC BY 4.0). Changes: As noted in the
+   introduction. No endorsement by the New Zealand Government is implied.
+
+6. PMC.Gov.AU — © Commonwealth of Australia, Department of the Prime Minister
+   and Cabinet. Licensed under Creative Commons Attribution 4.0 International
+   (CC BY 4.0). Changes: As noted in the introduction. No endorsement by the
+   Commonwealth is implied.
+
+7. Treasury.Gov.AU — © Commonwealth of Australia. Source: Australian Treasury,
+   “[TITLE],” [SOURCE URL]. Licensed under Creative Commons Attribution 4.0
+   International (CC BY 4.0). Changes: As noted in the introduction. No
+   endorsement by the Commonwealth is implied.
+
+8. Oecd.org — OECD, licensed under Creative Commons Attribution 4.0
+   International (CC BY 4.0). Changes: As noted in the introduction. This is an
+   adaptation of an original work by the OECD. The opinions expressed and
+   arguments employed in this adaptation should not be reported as representing
+   the official views of the OECD or of its Member countries.
+
+9. Accc.Gov.AU — Source: Based on ACCC data or other content. Licensed under
+   Creative Commons Attribution 4.0 International (CC BY 4.0). Changes: As noted
+   in the introduction. This use is not sponsored or endorsed by the ACCC.
+
+10. NSW.Gov.AU — © State of New South Wales. For current information go to
+    www.nsw.gov.au. Licensed under Creative Commons Attribution 4.0 International
+    (CC BY 4.0). Changes: As noted in the introduction. No endorsement by the
+    State of New South Wales is implied.
+
+11. VIC.Gov.AU — © Copyright State Government of Victoria. Licensed under
+    Creative Commons Attribution 4.0 International (CC BY 4.0). Changes: As
+    noted in the introduction. No endorsement by the Victorian Government is
+    implied.
+
+12. Budget.Gov.AU — © Commonwealth of Australia. Licensed under Creative Commons
+    Attribution 4.0 International (CC BY 4.0). Changes: As noted in the
+    introduction. No endorsement by the Commonwealth is implied.
+
+13. Wikipedia.org — This dataset includes adapted text from Wikipedia, licensed
+    under Creative Commons Attribution-ShareAlike 4.0 International
+    (CC BY-SA 4.0). Changes were made. The adapted text is distributed under
+    CC BY-SA 4.0. No endorsement by the Wikimedia Foundation or Wikipedia
+    contributors is implied.
